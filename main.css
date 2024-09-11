@@ -1,0 +1,52 @@
+.form {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.inputs {
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    color: red;
+    outline-color: red;
+    border-color: blue;
+}
+.btn_send {
+    border: 2px solid blue;
+    padding: 10px;
+    border-radius: 15px;
+    color: red;
+    background-color: #fff;
+}
+.box {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.title{
+    color: blue;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.des{
+    color: red;
+    font-size: 30px;
+}
+
+.btn_del{
+    border: 2px solid blue;
+    padding: 10px;
+    border-radius: 15px;
+    color: red;
+    background-color: #fff;
+}
+
+.box_2{
+    border: 2px soldi blue;
+}
